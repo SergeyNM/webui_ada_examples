@@ -1,0 +1,9 @@
+https://nocommandline.com/blog/json-stringify-replacer-parameter-buffer-and-uint8array/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array
+https://stackoverflow.com/questions/68453051/decode-a-uint8array-into-a-json
+
+https://stackoverflow.com/questions/12148948/how-do-i-ungzip-decompress-a-nodejs-requests-module-gzip-response-body/12776856#12776856
+
+https://github.com/evanw/uint8array-json-parser
+
+https://gist.github.com/tomfa/706d10fed78c497731ac

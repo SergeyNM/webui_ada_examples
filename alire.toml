@@ -1,0 +1,12 @@
+name = "webui_ada_examples"
+description = "Examples for Webui_Ada, Ada wrapper to WebUI"
+version = "0.1.0-dev"
+
+authors = ["SergeyNM"]
+maintainers = ["SergeyNM <0000auto@gmail.com>"]
+maintainers-logins = ["SergeyNM"]
+licenses = "MIT"
+website = ""
+tags = []
+
+executables = ["webui_ada_examples"]

@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "config",
+			"path": "../webui_ada/config"
+		},
+		{
+			"name": "src",
+			"path": "../webui_ada/src"
+		},
+		{
+			"path": "../webui"
+		}
+	],
+	"settings": {
+		"ada.projectFile": "webui_ada_examples.gpr"
+	}
+}
